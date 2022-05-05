@@ -196,7 +196,7 @@ _If the missing card(s) were in a previous or current opponent’s deck, issue p
 
 **Policy Additions**
 
-_Because of the confrontational nature of this infraction, judges need to end any match in progress and separate the players*. Care should be taken not to escalate the situation if at all possible. The offender will be removed from the area to receive the penalty, and education about why the behavior is unacceptable regardless of excuse. They may need a few moments to cool down afterwards. Apologizing is encouraged, but the desire of the other individuals to not interact with their harasser must be respected. _
+_Because of the confrontational nature of this infraction, judges need to end any match in progress and separate the players*. Care should be taken not to escalate the situation if at all possible. The offender will be removed from the area to receive the penalty, and education about why the behavior is unacceptable regardless of excuse. They may need a few moments to cool down afterwards. Apologizing is encouraged, but the desire of the other individuals to not interact with their harasser must be respected._
 
 **4.2A.** Only the players instigating or perpetuating confrontation are removed from the match.
 
@@ -207,17 +207,15 @@ _Because of the confrontational nature of this infraction, judges need to end an
 
 **4.4A.** In-game agreements, such as offering to not attack one another, are not Bribery. Bribery refers to tangible, monetary, or other similar means outside of the game offered to influence or change gameplay decisions or match outcome.
 
-**Edits **
 
-_Examples _
-
+_Examples_
 
 
 1. _A player in a Swiss round offers their opponent $100 to concede the match._
-2. _A player offers their opponent a card in exchange for a draw. _
+2. _A player offers their opponent a card in exchange for a draw._
 3. _A player asks for a concession in exchange for a prize split._
 4. _Two players agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match._
-5. _Two spectators place a bet on the number of games that will be needed to decide a match. _
+5. _Two spectators place a bet on the number of games that will be needed to decide a match._
 6. **A player in a Multiplayer match asks their opponent not to attack them this turn in exchange for $20.**
 
 
