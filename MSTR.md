@@ -45,7 +45,7 @@ In Multiplayer tournaments, players are organized in Pods. A Pod consists of the
 A Two-Headed Giant team is treated as a single player when determining the tournament mode.
 
 
-## **1.**6**. **Tournament Organizer
+## **1.6**. **Tournament Organizer
 
 **Policy Additions**
 
