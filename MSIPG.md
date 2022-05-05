@@ -55,11 +55,11 @@ At the time of original publishing, this document has been published solely in E
 **1.1A.** In best-of-one Multiplayer game modes a Game Loss penalty would be equivalent to a Match Loss. Therefore, each penalty where a Game Loss would be applied has been updated while maintaining the purposes of mitigating advantages and disincentivizing the infraction. 
 
 
-## **1.3. R**andomizing a Library** **
+## 1.3. Randomizing a Library
 
 **Edits**
 
-_The remedy for some infractions in this document includes shuffling the randomized portion of the library. This requires first determining whether any portion of the library is non-random, such as cards that have been manipulated on the top or bottom of the library, and separating those. Check with **all** players to verify this, and check the graveyard, exile, and battlefield for library manipulation cards, such as Brainstorm and cards with the scry mechanic. Once the library has been shuffled, any manipulated cards are returned to their correct locations. _
+_The remedy for some infractions in this document includes shuffling the randomized portion of the library. This requires first determining whether any portion of the library is non-random, such as cards that have been manipulated on the top or bottom of the library, and separating those. Check with **all** players to verify this, and check the graveyard, exile, and battlefield for library manipulation cards, such as Brainstorm and cards with the scry mechanic. Once the library has been shuffled, any manipulated cards are returned to their correct locations._
 
 
 
@@ -77,7 +77,7 @@ _With the exception of Failure to Maintain Game State, which is never upgraded, 
 
 **Policy Additions**
 
-_If the triggered ability isn’t covered by the previous paragraphs, the opponent<sup><strong>2.1A</strong></sup> chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered. _
+_If the triggered ability isn’t covered by the previous paragraphs, the opponent<sup><strong>2.1A</strong></sup> chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered._
 
 **2.1A.** In Multiplayer game modes, the remaining opponents must come to a majority decision on the choice. In a tie, the trigger is missed.
 
@@ -97,9 +97,9 @@ _If a set affected by the error contains more cards than it is supposed to conta
 
 **Edits**
 
-_While Game Rule Violations can be attributed to one player, they usually occur publicly and **all **players are expected to be mindful of what is happening in the game. It is tempting to try  and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game. _
+_While Game Rule Violations can be attributed to one player, they usually occur publicly and **all** players are expected to be mindful of what is happening in the game. It is tempting to try  and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game._
 
-_If the game has proceeded past a point where an opponent could reasonably be expected to notice the error, the opponent has also committed an infraction. In most cases, the infraction is Game Play Error — Failure to Maintain Game State. However, if the judge believes that **all** players were responsible for the Game Rule Violation, such as due to the opponent**(s) **controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, they have instead committed a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, once the game has continued **all **players will have committed a Game Rule Violation._
+_If the game has proceeded past a point where an opponent could reasonably be expected to notice the error, the opponent has also committed an infraction. In most cases, the infraction is Game Play Error — Failure to Maintain Game State. However, if the judge believes that **all** players were responsible for the Game Rule Violation, such as due to the opponent **(s)** controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, they have instead committed a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, once the game has continued **all** players will have committed a Game Rule Violation._
 
 
 ## 2.6. Game Play Error — Failure to Maintain Game State
@@ -129,9 +129,9 @@ _A player, spectator, or other tournament participant does any of the following:
 
 
 
-* _Seeks play advice or private information about their match from others once they have sat for their match. _
+* _Seeks play advice or private information about their match from others once they have sat for their match._
 * _Gives play advice or reveals private information to players who have sat for their match._
-* _During a game, refers to notes (other than Oracle™ pages) made before the official beginning of the current match. _
+* _During a game, refers to notes (other than Oracle™ pages) made before the official beginning of the current match._
 
 **3.2A.** In Multiplayer game modes, this refers only to players outside of the current match. Players who offer advice or strategic lines of play to opponents within their current match have not committed Outside Assistance.
 
