@@ -26,15 +26,6 @@ At the time of original publishing, this document has been published solely in E
     This document is updated periodically. Please obtain the most current version at Monarch.cards/policydocuments/MSIPG
 
 
-    
-
-
-# Table of Contents
-
-
-[TOC]
-
-
 
 # 
 
@@ -142,9 +133,9 @@ _A player, spectator, or other tournament participant does any of the following:
 
 **Policy Additions**
 
-**_Additional Remedy _**
+**_Additional Remedy_**
 
-_In the event that the match exceeds the time limit, two additional turns are added to the number of additional turns played. This turn extension occurs before any end-of-match procedure can begin and after any time extensions that may have been issued.  _
+_In the event that the match exceeds the time limit, two additional turns are added to the number of additional turns played. This turn extension occurs before any end-of-match procedure can begin and after any time extensions that may have been issued._
 
 _No additional turns are awarded if the match is already in additional turns, though the Warning still applies._
 
@@ -162,9 +153,9 @@ _No additional turns are awarded if the match is already in additional turns, th
 
 **Policy Additions**
 
-**_Additional Remedy _**
+**_Additional Remedy_**
 
-_Locate any cards missing from the deck and any incorrect cards in any game zone. Reveal those cards to the opponent<sup><strong>3.5A</strong></sup>. The opponent<sup><strong>3.5A</strong></sup> chooses which of the missing cards replaces each incorrect card; any extras are shuffled into the random portion of the library. If more cards are being removed than added, prioritize ones not in the library first. If there are still additional cards not in the library that need replacing, they are replaced by cards from the random portion of the library. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be returned to the deck at random from main deck cards in the sideboard. _
+_Locate any cards missing from the deck and any incorrect cards in any game zone. Reveal those cards to the opponent<sup><strong>3.5A</strong></sup>. The opponent<sup><strong>3.5A</strong></sup> chooses which of the missing cards replaces each incorrect card; any extras are shuffled into the random portion of the library. If more cards are being removed than added, prioritize ones not in the library first. If there are still additional cards not in the library that need replacing, they are replaced by cards from the random portion of the library. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be returned to the deck at random from main deck cards in the sideboard._
 
 **3.5A.** In Multiplayer game modes, the card or cards are revealed to all opponents. The majority of opponents must come to a decision on which missing card replaces each incorrect card. 
 
@@ -172,7 +163,7 @@ _Locate any cards missing from the deck and any incorrect cards in any game zone
 
 **Edits**
 
-_If the missing card(s) were in a previous or current opponent’s deck, issue penalties to **all relevant** players. _
+_If the missing card(s) were in a previous or current opponent’s deck, issue penalties to **all relevant** players._
 
 
 ## 3.8. Tournament Error — Marked Cards
@@ -196,7 +187,7 @@ _If the missing card(s) were in a previous or current opponent’s deck, issue p
 
 **Policy Additions**
 
-_Because of the confrontational nature of this infraction, judges need to end any match in progress and separate the players*. Care should be taken not to escalate the situation if at all possible. The offender will be removed from the area to receive the penalty, and education about why the behavior is unacceptable regardless of excuse. They may need a few moments to cool down afterwards. Apologizing is encouraged, but the desire of the other individuals to not interact with their harasser must be respected. _
+_Because of the confrontational nature of this infraction, judges need to end any match in progress and separate the players*. Care should be taken not to escalate the situation if at all possible. The offender will be removed from the area to receive the penalty, and education about why the behavior is unacceptable regardless of excuse. They may need a few moments to cool down afterwards. Apologizing is encouraged, but the desire of the other individuals to not interact with their harasser must be respected._
 
 **4.2A.** Only the players instigating or perpetuating confrontation are removed from the match.
 
@@ -209,15 +200,15 @@ _Because of the confrontational nature of this infraction, judges need to end an
 
 **Edits **
 
-_Examples _
+_Examples_
 
 
 
 1. _A player in a Swiss round offers their opponent $100 to concede the match._
-2. _A player offers their opponent a card in exchange for a draw. _
+2. _A player offers their opponent a card in exchange for a draw._
 3. _A player asks for a concession in exchange for a prize split._
 4. _Two players agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match._
-5. _Two spectators place a bet on the number of games that will be needed to decide a match. _
+5. _Two spectators place a bet on the number of games that will be needed to decide a match._
 6. **A player in a Multiplayer match asks their opponent not to attack them this turn in exchange for $20.**
 
 
