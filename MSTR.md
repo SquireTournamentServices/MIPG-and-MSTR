@@ -14,16 +14,7 @@ At the time of original publishing, this document has been published solely in E
 This document is updated periodically. Please obtain the most current version at Monarch.cards/policydocuments
 
 
-    
-
-
-# Table of Contents
-
-
-[TOC]
-
-
-
+   
 # 
 
 
