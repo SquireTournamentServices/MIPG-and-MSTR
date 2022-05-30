@@ -1,4 +1,10 @@
-### DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.
+**DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.**
+
+**Multiplayer Supplemental Tournament Rules**
+
+_Effective February 10, 2022_
+
+---
 
 # Introduction
 
