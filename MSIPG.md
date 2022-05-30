@@ -22,32 +22,6 @@ At the time of original publishing, this document has been published solely in E
 
 This document is updated periodically. Please obtain the most current version at [Monarch.cards/policydocuments/MSIPG](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md)
 
-# Table of Contents
-
-- [Introduction](#introduction)
-  * [Framework](#framework)
-- [Table of Contents](#table-of-contents)
-- [1. General Philosophy](#1-general-philosophy)
-  * [1.1. Definition of Penalties](#11-definition-of-penalties)
-  * [1.3. Randomizing a Library](#13-randomizing-a-library)
-- [2. Game Play Errors](#2-game-play-errors)
-  * [2.1. Game Play Error — Missed Trigger](#21-game-play-error--missed-trigger)
-  * [2.3. Game Play Error — Hidden Card Error](#23-game-play-error--hidden-card-error)
-  * [2.5. Game Play Error — Game Rule Violation](#25-game-play-error--game-rule-violation)
-  * [2.6. Game Play Error — Failure to Maintain Game State](#26-game-play-error--failure-to-maintain-game-state)
-- [3. Tournament Errors](#3-tournament-errors)
-  * [3.1. Tournament Error — Tardiness](#31-tournament-error--tardiness)
-  * [3.2. Tournament Error — Outside Assistance](#32-tournament-error--outside-assistance)
-  * [3.3 Tournament Error — Slow Play](#33-tournament-error--slow-play)
-  * [3.4 Tournament Error — Decklist Problem](#34-tournament-error--decklist-problem)
-  * [3.5. Tournament Error — Deck Problem](#35-tournament-error--deck-problem)
-  * [3.8. Tournament Error — Marked Cards](#38-tournament-error--marked-cards)
-- [4. Unsporting Conduct](#4-unsporting-conduct)
-  * [4.1. Unsporting Conduct — Minor](#41-unsporting-conduct--minor)
-  * [4.2. Unsporting Conduct — Major](#42-unsporting-conduct--major)
-  * [4.4. Unsporting Conduct — Bribery and Wagering](#44-unsporting-conduct--bribery-and-wagering)
-- [Credit](#credit)
-
 # 1. General Philosophy
 
 **Policy Additions**
