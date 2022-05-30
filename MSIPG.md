@@ -14,13 +14,13 @@ This document is an extension of the Infraction Procedure Guide, and therefore a
 
 ## Framework
 
-Each section within this document mirrors its namesake in the Infraction Procedure Guide. Within each section, **Policy Additions **and **Edits** can be found. **Policy Additions** are policies outlined as best practice for handling infractions, penalties, and fixes. **Edits **are designed to address the few important removals or additions to this document that differ from the Infraction Procedure Guide. Items or sections with italicized text are taken directly from the Infraction Procedure Guide.
+Each section within this document mirrors its namesake in the Infraction Procedure Guide. Within each section, **Policy Additions** and **Edits** can be found. **Policy Additions** are policies outlined as best practice for handling infractions, penalties, and fixes. **Edits** are designed to address the few important removals or additions to this document that differ from the Infraction Procedure Guide. Items or sections with italicized text are taken directly from the Infraction Procedure Guide.
 
 See the **Multiplayer Supplemental Tournament Rules** for further definitions of terms in this document. 
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version at [Monarch.cards/policydocuments/MSIPG](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md)
+This document is updated periodically. Please obtain the most current version [here](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md).
 
 # 1. General Philosophy
 
