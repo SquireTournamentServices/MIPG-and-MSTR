@@ -62,7 +62,6 @@ This document is updated periodically. Please obtain the most current version at
   - [Opponents’ Match-Win Percentage](#opponents-match-win-percentage)
 - [Appendix E – Recommended Number of Rounds in Swiss Tournaments](#appendix-e-–-recommended-number-of-rounds-in-swiss-tournaments)
 - [Credit](#credit)
-- [Changelog](#changelog)
 
 # 1. Tournament Fundamentals
 
