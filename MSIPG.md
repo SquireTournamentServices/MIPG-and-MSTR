@@ -116,7 +116,7 @@ _In the event that the match exceeds the time limit, two additional turns are ad
 
 _No additional turns are awarded if the match is already in additional turns, though the Warning still applies._
 
-**3.3A.** In Multiplayer game modes, no additional extra turns are added as a remedy for slow play. Players who receive a Slow Play warning during the round will skip any extra turns after round time is called. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns as described in the [Multiplayer Supplemental Magic Tournament Rules (MSMTR), 2.5A](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md#25-end-of-match-procedure).
+**3.3A.** In Multiplayer game modes, no additional extra turns are added as a remedy for slow play. Players who receive a Slow Play warning during the round will skip any extra turns after round time is called. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns as described in the [Multiplayer Supplemental Tournament Rules (MSTR), 2.5A](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md#25-end-of-match-procedure).
 
 ## 3.4 Tournament Error — Decklist Problem
 
