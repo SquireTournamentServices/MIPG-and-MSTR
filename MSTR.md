@@ -1,25 +1,70 @@
+### DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.
+
 # Introduction
 
 The Multiplayer Supplemental Tournament Rules exist to assist Judges who are working at Competitive or Professional Rules Enforcement Level in Multiplayer Tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it and the Multiplayer Supplemental Infraction Procedure Guide.
 
 This document is an extension of the Magic Tournament Rules, and therefore a person using the Multiplayer Supplement should first be familiar with that document. Once a person has reviewed the relevant sections of the Magic Tournament Rules, they can turn to the Multiplayer Supplemental Tournament Rules to find details on how to proceed in Multiplayer Tournaments.
 
-
 ## Framework
 
-Each section within this document mirrors its namesake in the Magic Tournament Rules. Within each section, **Policy Additions **and **Edits** can be found. **Policy Additions** are policies outlined as best practice for handling tournaments procedure. **Edits **are designed to address the few important removals or additions to this document that differ from the Magic Tournament Rules. Items or sections with italicized text are taken directly from the Magic Tournament Rules.
+Each section within this document mirrors its namesake in the Magic Tournament Rules. Within each section, **Policy Additions** and **Edits** can be found. **Policy Additions** are policies outlined as best practice for handling tournaments procedure. **Edits** are designed to address the few important removals or additions to this document that differ from the Magic Tournament Rules. Items or sections with italicized text are taken directly from the Magic Tournament Rules.
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version at Monarch.cards/policydocuments
+This document is updated periodically. Please obtain the most current version at https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md
+  
+# Table of Contents
 
-
-   
-# 
-
+- [Introduction](#introduction)
+  - [Framework](#framework)
+- [Table of Contents](#table-of-contents)
+- [1. Tournament Fundamentals](#1-tournament-fundamentals)
+  - [1.1. Tournament Types](#11-tournament-types)
+  - [1.6. Tournament Organizer](#16-tournament-organizer)
+  - [1.9 Scorekeeper](#19-scorekeeper)
+  - [1.10 Players](#110-players)
+  - [1.12 Rules Enforcement Levels](#112-rules-enforcement-levels)
+- [2. Tournament Mechanics](#2-tournament-mechanics)
+  - [2.1. Match Structure](#21-match-structure)
+  - [2.2. Play/Draw Rule](#22-playdraw-rule)
+  - [2.3. Pregame Procedure](#23-pregame-procedure)
+  - [2.4. Conceding or Intentionally Drawing Games or Matches](#24-conceding-or-intentionally-drawing-games-or-matches)
+  - [2.5. End of Match Procedure](#25-end-of-match-procedure)
+- [3. Tournament Rules](#3-tournament-rules)
+  - [3.1. Tiebreakers](#31-tiebreakers)
+  - [3.13. Hidden Information](#313-hidden-information)
+- [4. Communication](#4-communication)
+  - [4.2. Tournament Shortcuts](#42-tournament-shortcuts)
+  - [4.4. Loops](#44-loops)
+- [5. Tournament Violations](#5-tournament-violations)
+  - [5.4. Unsporting Conduct](#54-unsporting-conduct)
+- [6. Constructed Tournament Rules](#6-constructed-tournament-rules)
+  - [6.1. Deck Construction Restrictions](#61-deck-construction-restrictions)
+  - [6.*. Commander Format Deck Construction](#6-commander-format-deck-construction)
+- [X. Commander Tournament Rules](#x-commander-tournament-rules)
+  - [X.1. Match Structure](#x1-match-structure)
+  - [X.2. Communication Rules](#x2-communication-rules)
+  - [X.3. Play/Draw Rule](#x3-playdraw-rule)
+  - [X.4. Pregame Procedure](#x4-pregame-procedure)
+  - [X.5. Time Extensions](#x5-time-extensions)
+  - [X.6. Commander Booster Draft](#x6-commander-booster-draft)
+  - [X.7 Commander Single Elimination Procedures](#x7-commander-single-elimination-procedures)
+- [10. Sanctioning Rules](#10-sanctioning-rules)
+  - [10.1 Participation Minimums](#101-participation-minimums)
+  - [10.2 Number of Rounds](#102-number-of-rounds)
+  - [10.4 Pairing Algorithm](#104-pairing-algorithm)
+- [Appendix B – Time Limits](#appendix-b-–-time-limits)
+- [Appendix C – Tiebreaker Explanation](#appendix-c-–-tiebreaker-explanation)
+  - [Match Points](#match-points)
+  - [Game Points](#game-points)
+  - [Match-Win Percentage](#match-win-percentage)
+  - [Opponents’ Match-Win Percentage](#opponents-match-win-percentage)
+- [Appendix E – Recommended Number of Rounds in Swiss Tournaments](#appendix-e-–-recommended-number-of-rounds-in-swiss-tournaments)
+- [Credit](#credit)
+- [Changelog](#changelog)
 
 # 1. Tournament Fundamentals
-
 
 ## 1.1. Tournament Types
 
@@ -35,14 +80,11 @@ In Multiplayer tournaments, players are organized in Pods. A Pod consists of the
 
 A Two-Headed Giant team is treated as a single player when determining the tournament mode.
 
-
 ## **1.6**. Tournament Organizer
 
 **Policy Additions**
 
 _The Tournament Organizer of a tournament is responsible for all tournament logistics including:_
-
-
 
 * _Sanctioning the event._
 * _Providing a site for the tournament that meets the tournament’s expected needs._
@@ -53,14 +95,11 @@ _The Tournament Organizer of a tournament is responsible for all tournament logi
 * _Saving match result slips from each tournament for a period of 6 months (to aid in match appeals)._
 * **Storing any other match result data from each tournament for a period of 6 months (to aid in match appeals).**
 
-
 ## 1.9 Scorekeeper
 
 **Policy Additions**
 
 _The Scorekeeper’s responsibilities include:_
-
-
 
 * _Generating correct pairings each round and accurately entering the results of those rounds._
 * _Generating standings for posting before and after the final Swiss round. Other rounds may also be  posted at the Head Judge’s discretion._
@@ -68,18 +107,21 @@ _The Scorekeeper’s responsibilities include:_
 * _Making sure all necessary information is included in the tournament’s report to be submitted to the DCI._
 * **Saving match data (such as slips or software data) to be turned over to the Tournament Organizer at the conclusion of the event.**
 
+## 1.10 Players
+
+**Policy Additions**
+
+**1.10A.** For Multiplayer tournaments, if a Player loses a game during a match, they are expected to act as Spectators for the remainder of the ongoing game.
+
+_Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer match. Bob loses the game to combat damage, but doesn’t leave the table and keeps spectating the game. From this point, until the end of the game, Bob is forbidden from participating in any political or strategic discussions, since at this point it would be advantageous for Bob if the game ended up in a draw._
 
 ## 1.12 Rules Enforcement Levels
 
-Policy Additions
+**Policy Additions**
 
 **1.12A.** For Multiplayer tournaments, there are differences on how to handle infractions when compared to Head-to-Head tournaments. Those differences are covered by the Multiplayer Supplemental Infraction Procedure Guide, located at https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSIPG.md
 
-
-
-
 # 2. Tournament Mechanics
-
 
 ## 2.1. Match Structure
 
@@ -93,7 +135,6 @@ In the case of a tie, the match is a draw between the players that participated 
 
 _Example: Alice is ranked first in the last round of swiss. This rule prevents her from being targeted by all other Pod participants followed by an intentional draw._
 
-
 ## 2.2. Play/Draw Rule
 
 **Policy Additions**
@@ -102,13 +143,11 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **2.2B** For Multiplayer tournaments where the number of game wins required to win a match is  greater than one, the seating order must be randomized across all games. The starting player is decided using a random method for each game after the first.
 
-
 ## 2.3. Pregame Procedure
 
 **Policy Additions**
 
 **2.3A.** Some Multiplayer tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
-
 
 ## 2.4. Conceding or Intentionally Drawing Games or Matches
 
@@ -117,7 +156,6 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 **2.4A.** In Multiplayer tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
 
 **2.4B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
-
 
 ## 2.5. End of Match Procedure
 
@@ -129,9 +167,7 @@ _Example: Alice, Bob, Charlie and Daniel are playing and Alice is the active pla
 
 **2.5B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
-
 # 3. Tournament Rules
-
 
 ## 3.1. Tiebreakers
 
@@ -157,9 +193,7 @@ _Example: Alice resolves a Praetor’s Grasp targeting Bob. Alice may reveal car
 
 _Example: Alice controls an Opposition Agent and is currently controlling Bob while Bob is searching their library. Although Alice can freely talk about cards in Bob's library with the remaining players, Alice cannot physically reveal the cards in Bob’s library to them. In this example, Alice is controlling Bob. However, controlling the player doesn’t grant Alice the right to make out-of-game choices or decisions. The choice to reveal hidden information at any time is granted by MTR 3.13, and as such is not an in-game choice or decision._
 
-
 # 4. Communication
-
 
 ## 4.2. Tournament Shortcuts
 
@@ -178,7 +212,6 @@ If Daniel were to pass priority here, the turn would end and Bob’s turn would 
 The Head-to-Head fix would allow Charles to have priority at this point, but Charles is fully tapped-out, so they can’t initiate a new round of priority. \
 With this fix, we allow Alice to have priority back in their second main phase, after they played the land for the turn._
 
-
 ## 4.4. Loops
 
 **Policy Additions**
@@ -191,11 +224,7 @@ Then, the first player that proposed the earliest point in the loop is considere
 
 This process follows the same rules specified in MSTR 4.2A.
 
-
-
-
 # 5. Tournament Violations
-
 
 ## 5.4. Unsporting Conduct
 
@@ -211,17 +240,13 @@ Unsporting conduct will not be tolerated at any time. Tournament participants mu
 * _Failing to follow the instructions of a tournament official._
 * **Violating the Tournament Organizer’s Code of Conduct (if applicable).**
 
-
-
 # 6. Constructed Tournament Rules
-
 
 ## 6.1. Deck Construction Restrictions 
 
 **Policy Additions**
 
 **6.1A.** Some formats have different deck construction restrictions defined in the Comprehensive Rules beginning in section 900.
-
 
 ## 6.*. Commander Format Deck Construction
 
@@ -231,14 +256,11 @@ Commander Format introduces changes to the Deck Construction rules as defined in
 
 Refer to the official banlist available at: [https://mtgcommander.net/index.php/banned-list/](https://mtgcommander.net/index.php/banned-list/)
 
-
 ## 
-
 
 # X. Commander Tournament Rules
 
 **This section as whole is an addition from this supplement and should be interpreted as being next to the Format-specific sections of the Magic Tournament Rules: After “9. Two-Headed-Giant Tournament Rules” and before “10. Sanctioning Rules”.**
-
 
 ## X.1. Match Structure
 
@@ -246,11 +268,9 @@ Refer to the official banlist available at: [https://mtgcommander.net/index.php/
 
 **X.1B.** In Commander matches, players play against each other in Pods. Each Pod should be composed of four players. In the case that the number of participants is not divisible by 4, it is recommended that players that can’t be matched in Pods of four receive a Bye for that round instead.
 
-
 ## X.2. Communication Rules
 
 **X.2A.** Commander Damage is considered Status Information and therefore subject to the rules defined in section 4.1 Player Communication.
-
 
 ## X.3. Play/Draw Rule
 
@@ -262,29 +282,23 @@ For the single elimination portion of the tournament, the seating and play order
 
 **X.3B.** If the tournament match structure includes multiple games per match, it is recommended that the seating order is randomized between games, as well as the starting player, because otherwise all the players would continue playing with the same priority order as before.
 
-
 ## X.4. Pregame Procedure
 
 **X.4A.** Before drawing opening hands, players will reveal their Companion (if any) and then their Commander as per Comprehensive Rules 103.2c. All other pregame procedures are performed as normal.
-
 
 ## X.5. Time Extensions
 
 **X.5A** Because Commander decks are 100-card singleton lists, after a Deck Check is performed tournament staff should award extra time to the affected match totaling the time spent on the deck check, plus four (4) extra minutes to account for the additional shuffling time needed.
 
-
 ## X.6. Commander Booster Draft
 
 **X.6A** Refer to the Comprehensive Rules (section 903.13. Commander Draft) for instructions on how Commander Booster Draft works.
-
 
 ## X.7 Commander Single Elimination Procedures
 
 **X.7A** Due to the nature of Commander gameplay, it is strongly recommended that single-elimination rounds be run with no time limit. Any deviation from this recommendation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
-
 # 10. Sanctioning Rules
-
 
 ## 10.1 Participation Minimums
 
@@ -294,7 +308,6 @@ For the single elimination portion of the tournament, the seating and play order
 
 **10.1B.** For Multiplayer tournaments at Competitive Rules Enforcement Level, a minimum of sixteen (16) players must participate.
 
-
 ## 10.2 Number of Rounds
 
 **Policy Additions**
@@ -302,7 +315,6 @@ For the single elimination portion of the tournament, the seating and play order
 **10.2A.** For Multiplayer tournaments at Regular Rules Enforcement Level, a minimum of one (1) round should be played.
 
 **10.2B.** For Multiplayer tournaments at Competitive Rules Enforcement Level, a minimum of two (2) rounds should be played.
-
 
 ## 10.4 Pairing Algorithm 
 
@@ -317,9 +329,7 @@ In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
 
 In Multiplayer tournaments, the single-elimination playoffs are paired according to the following pattern:
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image1.png "image_tooltip")
+![Screenshot 2022-05-30 124751](https://user-images.githubusercontent.com/5087/170986132-35236b8f-97bb-4240-97b0-a5ef77a79a4e.png)
 
 In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, with the remaining 32 players being paired in 8 Pods for the quarterfinals, according to the pattern above. In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
 
@@ -349,7 +359,6 @@ In Best-of-One matches, the match points coincide with game points.
 
 A player who receives a bye in a Multiplayer tournament receives N+1 match points, where N is the standard number of players in a Pod for that tournament.
 
-
 ## Game Points
 
 **Policy Additions**
@@ -358,16 +367,13 @@ In Multiplayer tournaments, players earn N+1 game points for each game they win,
 
 Each player who began a game that does not end with a winner being declared will earn 1 point.
 
-
 ## Match-Win Percentage
 
 **Policy Additions**
 
 In Multiplayer tournaments, the Match Win Percentage is defined as follows:
-    
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+$$ {\text{Number of Match wins} - \text{Number of byes} \over \text{Number of matches played}} $$
 
 ## Opponents’ Match-Win Percentage
 
@@ -375,15 +381,13 @@ In Multiplayer tournaments, the Match Win Percentage is defined as follows:
 
 In Multiplayer tournaments, Opponent Match Win % is not used. Instead Opponent’s Average Match Points (MP) are used and defined as follows: 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+$$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{(MP of opponent n)} \over n} $$
 
 # Appendix E – Recommended Number of Rounds in Swiss Tournaments
 
 **Policy Additions**
 
 For tournaments using Multiplayer tournaments, in a configuration of four (4) players per Pod, use the following number of rounds:
-
 
 <table>
   <tr>
@@ -463,6 +467,6 @@ For tournaments using Multiplayer tournaments, in a configuration of four (4) pl
 
 # Credit
 
-_Created by Erin Leonard, Fábio Batista, and Graydon Beadle_
+_Created by Erin Leonard, [Fábio Batista](https://github.com/fbatista), and Graydon Beadle_
 
 _Consultation and editing by Landon Liberator, Bryan Spellman, Savannah Beard, Nicholas Hammond, Erin Leonard, Mark Mason, Tyler Bloom, and Ethan Smilg_
