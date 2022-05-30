@@ -335,7 +335,7 @@ In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, wi
 
 # Appendix B – Time Limits
 
-**Policy Additions **
+**Policy Additions**
 
 * For Multiplayer tournaments at Regular REL—90 minutes
 * For Multiplayer tournaments at Competitive REL—75 minutes
@@ -464,9 +464,8 @@ For tournaments using Multiplayer tournaments, in a configuration of four (4) pl
   </tr>
 </table>
 
-
 # Credit
 
 _Created by Erin Leonard, [Fábio Batista](https://github.com/fbatista), and Graydon Beadle_
 
-_Consultation and editing by Landon Liberator, Bryan Spellman, Savannah Beard, Nicholas Hammond, Erin Leonard, Mark Mason, Tyler Bloom, and Ethan Smilg_
+_Consultation and editing by [Landon Liberator](https://github.com/Libby-Monarch), Bryan Spellman, Savannah Beard, [Nicholas Hammond](https://github.com/NicholasRHammond), Erin Leonard, Mark Mason, [Tyler Bloom](https://github.com/TylerBloom), and Ethan Smilg_
