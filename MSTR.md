@@ -18,7 +18,7 @@ Each section within this document mirrors its namesake in the Magic Tournament R
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version at https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md
+This document is updated periodically. Please obtain the most current version [here](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md).
 
 # 1. Tournament Fundamentals
 
