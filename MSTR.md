@@ -117,7 +117,7 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is deterimined, players leaving the game have no impact. 
+**2.5A.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time for the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
 
