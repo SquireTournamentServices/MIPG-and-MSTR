@@ -151,7 +151,7 @@ _Example: Alice controls an Opposition Agent and is currently controlling Bob wh
 
 _Example: Alice owns a Bane Alley Broker. she has activated it's ability exiling a Dark Ritual. At some point Bob gains control or Bane Alley Broker and also activates it exiling a Counterspell. Alice can still look at the Dark Ritual and she can reveal it. Bob can also look at Alice's Dark Ritual but he can't reveal it. If Charlie now gains control of Bane Alley Broker, both Alice, Bob and Charlie will be able to look at Dark Ritual, but still, only Alice will be able to reveal it, same as only Bob will be able to reveal Counterspell, in spite of the fact that both Bob and Charlie can look at it._
 
-_Example: Bob is controlling Alice during her turn, due to resolving the activated ability of a Mindslaver. Alice draws an Ad Nauseam for the turn, then Alice casts and resolves Praetor's Grasp targetting Charlie, exiling a Lion's Eye Diamond. Bob has access to all of this hidden information, but this information still pertains to Alice, and as such, it's Alice's decision to reveal it or not, not Bob's. 
+_Example: Bob is controlling Alice during her turn, due to resolving the activated ability of a Mindslaver. Alice draws an Ad Nauseam for the turn, then Alice casts and resolves Praetor's Grasp targetting Charlie, exiling a Lion's Eye Diamond. Bob has access to all of this hidden information, but this information still pertains to Alice, and as such, it's Alice's decision to reveal it or not, not Bob's._
 
 # 4. Communication
 
