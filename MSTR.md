@@ -143,7 +143,7 @@ _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Al
 
 One of the reasons want to allow players revealing hidden information they gained access to is to avoid a player accidentally revealing hidden information and either them or the players that gained that information accidentally being penalized. In Multiplayer it is expected that when a player is dealing with hidden information that pertains to one of their opponents, that they are extra careful about not physically revealing it. At the same time we also want to allow players to still be allowed to bluff about hidden information, so in any situation, players are allowed to verbally reveal any hidden information they may have gained.
 
-In Multiplayer tournaments, the following rules apply to physically revealing card faces in hidden zones when a player already knows their identity:
+In Multiplayer tournaments, the following rules apply to physically revealing card faces in hidden zones when a player has permission to see them:
 
 - Library: the owner of the cards in the library can choose to physically reveal them.
 - Face down exile: the controller of the effect that exiled the card(s) can choose to physically reveal them.
