@@ -167,6 +167,29 @@ _Example: In a situation where Alice resolved Gather Specimens, Bob controls Len
 
 # 4. Communication
 
+## 4.1. Player Communication
+
+**Policy Additions**
+
+_Status information consists of:_
+
+* _Life totals._
+* _Counters a player has attached to them._
+* _Continuous effects with no defined expiration within the game that apply to that player, such as Monarch or City’s Blessing._
+* _Unspent mana in a player’s mana pool._
+* _Location in a dungeon._
+* **Amount of damage a player received from a Commander.**
+
+_Free information consists of:_
+
+* _Details of current game actions and past game actions that still affect the game state._
+* _The name of any visible object._
+* _The number and type of any counter that isn’t defined as status information._
+* _The state (whether it’s tapped, attached to another permanent, face down, etc.) and current zone of any object or player._
+* _The game score of the current match._
+* _The current step and/or phase and which player(s) are active._
+* **The number of times a Commander has been cast from the command zone.**
+
 ## 4.2. Tournament Shortcuts
 
 **Edits**
