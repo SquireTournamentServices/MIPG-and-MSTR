@@ -56,7 +56,7 @@ _With the exception of Failure to Maintain Game State, which is never upgraded, 
 
 _If the triggered ability isn’t covered by the previous paragraphs, the opponent<sup><strong>2.1A</strong></sup> chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices for the triggered ability involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered._
 
-**2.1A.** In Multiplayer game modes, the remaining opponents must come to a majority decision on the choice. In a tie, the trigger is missed.
+**2.1A.** In Multiplayer game modes, the remaining opponents must come to a majority decision on the choice. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.
 
 ## 2.3. Game Play Error — Hidden Card Error
 
