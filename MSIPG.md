@@ -185,4 +185,4 @@ _Examples_
 
 _Created by Bryan Spellman and Landon Liberator_
 
-_Consultation and editing by Savannah Beard, Nicholas Hammond, Fabio Batista, Erin Leonard, Mark Mason, Graydon Beadle, Tyler Bloom, Fatty Springer, Maria Howerton-Sweid, and Ethan Smilg_
+_Consultation and editing by Savannah Beard, Nicholas Hammond, Fabio Batista, Erin Leonard, Mark Mason, Graydon Beadle, Tyler Bloom, Fatty Springer, Maria Howerton-Sweid, Ethan Smilg, and Seth Arar._
