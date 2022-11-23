@@ -147,7 +147,7 @@ In Multiplayer tournaments, the following rules apply to physically revealing ca
 
 - Library: the owner of the cards in the library can choose to physically reveal them.
 - Face down exile: the controller of the effect that exiled the card(s) can choose to physically reveal them.
-- Face down on the battlefhield: the controller of the permanent(s) can choose to physically reveal them.
+- Face down on the battlefield: the controller of the permanent(s) can choose to physically reveal them.
 - Hand: the owner of the card(s) in hand can physically reveal them.
 - Any other temporary face down zone: the controller of the effect that placed the card(s) in that zone can choose to physically reveal them.
 
