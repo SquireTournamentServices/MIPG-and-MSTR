@@ -143,14 +143,16 @@ _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Al
 
 One of the reasons want to allow players revealing hidden information they gained access to is to avoid a player accidentally revealing hidden information and either them or the players that gained that information accidentally being penalized. In Multiplayer it is expected that when a player is dealing with hidden information that pertains to one of their opponents, that they are extra careful about not physically revealing it. At the same time we also want to allow players to still be allowed to bluff about hidden information, so in any situation, players are allowed to verbally reveal any hidden information they may have gained.
 
-In Multiplayer tournaments, the following rules apply to physically revealing card faces in hidden zones when a player has permission to see them:
+In Multiplayer tournaments, the following rules apply to physically revealing card faces in hidden zones:
 
-- Library: the owner of the cards in the library can choose to physically reveal them.
-- Face down exile: the controller of the effect that exiled the card(s) can choose to physically reveal them.
+- Library: the owner of the cards in the library can choose to physically reveal as long as they have been instructed to look at them.
+- Face down exile: any player with a currently applicable instruction allowing them to look at the cards may physically reveal them.
 - Face down on the battlefield: the controller of the permanent(s) can choose to physically reveal them.
+- Face down on the stack: the controller of the spell can choose to physically reveal them.
 - Hand: the owner of the card(s) in hand can physically reveal them.
-- Any other temporary face down zone: the controller of the effect that placed the card(s) in that zone can choose to physically reveal them.
+- Any other temporary face down zone: any player with a currently applicable instruction allowing them to look at the cards may physically reveal them.
 
+For the purpose of physically revealing cards, an instruction to look at a card is not transferrable to another player controlling the instructed player.
 The choice of physically revealing hidden information belongs to the player as described above, which means that player-controlling effects, won't allow the controller to force the controlled player to physically reveal hidden information.
 
 _Example: Alice resolves a Gitaxian Probe, targeting Bob. Alice may look at Bob’s hand but may not reveal or force Bob to reveal their hand to the remaining players. In this example, Alice is being temporarily shared information about Bob’s hand, and as such she cannot transform the permission granted to her by the Look effect into a Reveal effect. Bob however may choose to reveal their hand at any point._
@@ -159,7 +161,7 @@ _Example: Alice resolves a Praetor’s Grasp targeting Bob. Alice may not reveal
 
 _Example: Alice controls an Opposition Agent and is currently controlling Bob while Bob is searching their library. Although Alice can freely talk about cards in Bob's library with the remaining players, Alice cannot physically reveal the cards in Bob’s library to them. In this example, Alice is controlling Bob. However, controlling the player doesn’t grant Alice the right to make out-of-game choices or decisions. The choice to reveal hidden information at any time is granted by MTR 3.13, and as such is not an in-game choice or decision._
 
-_Example: Alice owns a Bane Alley Broker. She activated its ability exiling a Dark Ritual. At some point Bob gains control or Bane Alley Broker and also activates it exiling a Counterspell. Alice can still look at the Dark Ritual and she can reveal it. Bob can also look at Alice's Dark Ritual but he can't reveal it. If Charlie now gains control of Bane Alley Broker, both Alice, Bob and Charlie will be able to look at Dark Ritual, but still, only Alice will be able to reveal it, same as only Bob will be able to reveal Counterspell, in spite of the fact that both Bob and Charlie can look at it._
+_Example: Alice owns a Bane Alley Broker. She activated its ability exiling a Dark Ritual. At some point Bob gains control or Bane Alley Broker and also activates it exiling a Counterspell. Alice can still look at the Dark Ritual but she can no longer reveal it. Bob can also look at Alice's Dark Ritual and he can reveal it. If Charlie now gains control of Bane Alley Broker, both Alice, Bob and Charlie will be able to look at Dark Ritual and Counterspell, but now, only Charlie can physically reveal them._
 
 _Example: Bob is controlling Alice during her turn, due to resolving the activated ability of a Mindslaver. Alice draws an Ad Nauseam for the turn, then Alice casts and resolves Praetor's Grasp targetting Charlie, exiling a Lion's Eye Diamond. Bob has access to all of this hidden information, but Alice still has the choice of physically revealing cards from her hand, and neither Alice or Bob can physically reveal cards from Charlie's library. Alice will also be the one with the choice to physically reveal the Lion's Eye Diamond, not Bob._
 
