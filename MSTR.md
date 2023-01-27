@@ -386,7 +386,7 @@ $$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{
 
 **Policy Additions**
 
-For tournaments using Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
+For Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
 
 | Players | Swiss Rounds                                                     | Playoff |
 | ------- | ---------------------------------------------------------------- | ------- |
@@ -396,9 +396,14 @@ For tournaments using Multiplayer tournaments, in a configuration of four (4) pl
 | 33-64   | 4                                                                | Top 16  |
 | 65-128  | 5                                                                | Top 16  |
 | 129-256 | 5                                                                | Top 40  |
-| 257+    | $$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$ | Top 40  |
+
+For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff an apply the following mathematical formula to figure out the number of rounds to play:
+
+$$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$
 
 ![image](https://user-images.githubusercontent.com/5087/215114736-5f1488d8-2927-4845-a9dc-20201aaa1250.png)
+
+_With 1024+ players the recommended number of rounds becomes 6. In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards_ 
 
 # Credit
 
