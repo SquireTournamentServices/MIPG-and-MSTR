@@ -320,7 +320,11 @@ In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
 * Pairings should be done by sorting players by performance (Match points plus Tiebreakers in order), followed by preferably matching players following the performance order, starting from the highest performing players, by allocating them to Pods. This is referred to as Top-to-Bottom assignment.
 * This matching process must avoid matching between players that have already played against each other during previous rounds.
 * In the case where Players cannot receive any match during the first Top-to-Bottom pass, the process should iteratively attempt to swap the unmatched players with players that can fit into the incomplete Pods (typically the last pods of the tournament, since the first pass happened in a Top-to-Bottom fashion). The swapped players will then become "Paired up" or "Paired down" depending if they ended in a highest rated pod or not.
-* Byes should be awarded to lowest rated players in the case the division of the total number of participants by the number of Pods has a remainder greater than zero.
+* In competitive REL events, Byes should be awarded to lowest rated players in the case the division of the total number of participants by the number of Pods has a remainder greater than zero.
+* In regular REL events, instead of awarding Byes in case of an uneven distribution of players through the pods, players should be instead matched into one ore more pods of smaller size, always trying to minimize the difference in pod size towards the norm. Examples:
+  - _In an event with 23 players, pair players using 5 pods with size 4 and 1 pod with size 3_
+  - _In an event with 22 players, pair players using 4 pods with size 4 and 2 pods with size 3_
+  - _In an event with 21 players, pair players using 3 pods with size 4 and 3 pods with size 3_
 
 In Multiplayer tournaments, the single-elimination playoffs are paired according to the following pattern:
 
@@ -382,82 +386,19 @@ $$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{
 
 **Policy Additions**
 
-For tournaments using Multiplayer tournaments, in a configuration of four (4) players per Pod, use the following number of rounds:
+For tournaments using Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
 
-<table>
-  <tr>
-   <td>Players
-   </td>
-   <td>Swiss Rounds
-   </td>
-   <td>Playoff
-   </td>
-  </tr>
-  <tr>
-   <td>4-8
-   </td>
-   <td>None (Run 1 Single Elimination round)
-   </td>
-   <td>None
-   </td>
-  </tr>
-  <tr>
-   <td>9-16
-   </td>
-   <td>2
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>17-32
-   </td>
-   <td>3
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>33-64
-   </td>
-   <td>4
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>65-128
-   </td>
-   <td>5
-   </td>
-   <td>Top 16
-   </td>
-  </tr>
-  <tr>
-   <td>129-226 
-   </td>
-   <td>6
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-  <tr>
-   <td>227-409 
-   </td>
-   <td>7
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-  <tr>
-   <td>410+ 
-   </td>
-   <td>8
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-</table>
+| Players | Swiss Rounds                                                     | Playoff |
+| ------- | ---------------------------------------------------------------- | ------- |
+| 4       | None (Run 1 Single elimination round)                            | None    |
+| 5-15    | 2                                                                | Top 4   |
+| 16-32   | 3                                                                | Top 4   |
+| 33-64   | 4                                                                | Top 16  |
+| 65-128  | 5                                                                | Top 16  |
+| 129-256 | 5                                                                | Top 40  |
+| 257+    | $$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$ | Top 40  |
+
+
 
 # Credit
 
