@@ -398,7 +398,7 @@ For tournaments using Multiplayer tournaments, in a configuration of four (4) pl
 | 129-256 | 5                                                                | Top 40  |
 | 257+    | $$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$ | Top 40  |
 
-
+![image](https://user-images.githubusercontent.com/5087/215114736-5f1488d8-2927-4845-a9dc-20201aaa1250.png)
 
 # Credit
 
