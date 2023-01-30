@@ -403,7 +403,7 @@ $$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$
 
 ![image](https://user-images.githubusercontent.com/5087/215114736-5f1488d8-2927-4845-a9dc-20201aaa1250.png)
 
-_With between 257 till 1024 players, the recommended number of rounds is 6.
+_With between 257 till 1024 players, the recommended number of rounds is 6._
 
 _With 1024+ players the recommended number of rounds becomes 7. In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards_ 
 
