@@ -253,8 +253,6 @@ Commander Format introduces changes to the Deck Construction rules as defined in
 
 Refer to the official banlist available at: [https://mtgcommander.net/index.php/banned-list/](https://mtgcommander.net/index.php/banned-list/)
 
-Because of tournament logistics and general card availability, cards from expansions and special sets (like From the Vault, Magic: The Gathering — Commander, Duel Decks, Conspiracy, etc.) are legal for tournament use in the Commander format **on the date of release** of the expansion or special set, in contrast to what is written about card legality in Commander format on the [official website](https://mtgcommander.net/index.php/banned-list/) which states cards to be "_legal to play with as of their set's prerelease_".
-
 # X. Commander Tournament Rules
 
 **This section as whole is an addition from this supplement and should be interpreted as being next to the Format-specific sections of the Magic Tournament Rules: After “9. Two-Headed-Giant Tournament Rules” and before “10. Sanctioning Rules”.**
