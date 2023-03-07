@@ -387,7 +387,7 @@ Note that Byes do not count towards n.
 
 In Multiplayer tournaments, Opponent Match Win % is defined as follows: 
 
-$$ {\text{(MW%  of opponent 1)} + \text{(MW% of opponent 2)} + \text{...} + \text{(MW% of opponent n)} \over n} $$
+$$ {\text{(MW Percent of opponent 1)} + \text{(MW Percent of opponent 2)} + \text{...} + \text{(MW Percent of opponent n)} \over n} $$
 
 When using the MW% of an opponent in the formula above, we don't minimum-cap it to 0.33 when compared to Head-to-head tournaments.
 
