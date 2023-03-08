@@ -200,7 +200,7 @@ Any references to “non-active player” within MTR 4.2 refer to each non-activ
 
 **Policy Additions**
 
-**4.2A** In Multiplayer tournaments, if a player requests priority and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
+**4.2A** In Multiplayer tournaments, if a player requests priority for a specific action and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
 
 This is in contrast to Head-to-Head tournaments, where the priority is returned to the player that had originally it. This is done to prevent abuse where players verbally announce outside of their priority window, that they wish to do something and by not doing anything, they are potentially leading other players into passing priority.
 
