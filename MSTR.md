@@ -198,6 +198,12 @@ _Free information consists of:_
 
 Any references to “non-active player” within MTR 4.2 refer to each non-active player in turn order within Multiplayer tournaments.
 
+The following shortcut doesn't apply in Multiplayer tournament games, as long as there are more than 2 players still participating in said game:
+
+* _A player is assumed to be attacking another player with their creatures and not any planeswalkers that player may control unless the attacking player specifies otherwise._
+
+The reason being that we can't simply assume a default opponent when there are multiple options. Players will always need to define an opponent / planeswalker / battle when attacking. This also applies to creatures put directly into the battlefield and attacking.
+
 **Policy Additions**
 
 **4.2A** In Multiplayer tournaments, if a player requests priority and decides they do not wish to do anything, the request is nullified, priority is returned to the active player and the game state is backed up to the point after the last game action.
