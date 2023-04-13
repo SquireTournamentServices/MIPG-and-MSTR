@@ -331,7 +331,12 @@ In Multiplayer tournaments, the single-elimination playoffs are paired according
 
 ![Screenshot 2022-05-30 124751](https://user-images.githubusercontent.com/5087/170986132-35236b8f-97bb-4240-97b0-a5ef77a79a4e.png)
 
-In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, with the remaining 32 players being paired in 8 Pods for the quarterfinals, according to the pattern above. In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
+Uneven cuts:
+
+- In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, with the remaining 32 players being paired in 8 Pods for the quarterfinals, according to the pattern above. 
+- In the case of a top 10 cut, the top 2 seeded players skip the semifinals, with the remaining 8 players being paired in 2 pods for the semifinals, according to the pattern above.
+
+In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
 
 # Appendix B – Time Limits
 
