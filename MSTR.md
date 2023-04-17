@@ -327,13 +327,23 @@ In Multiplayer tournaments, the modified swiss pairing algorithm is as follows:
 * Pairings should be done by sorting players by performance (Match points plus Tiebreakers in order), followed by preferably matching players following the performance order, starting from the highest performing players, by allocating them to Pods. This is referred to as Top-to-Bottom assignment.
 * This matching process must avoid matching between players that have already played against each other during previous rounds.
 * In the case where Players cannot receive any match during the first Top-to-Bottom pass, the process should iteratively attempt to swap the unmatched players with players that can fit into the incomplete Pods (typically the last pods of the tournament, since the first pass happened in a Top-to-Bottom fashion). The swapped players will then become "Paired up" or "Paired down" depending if they ended in a highest rated pod or not.
-* Byes should be awarded to lowest rated players in the case the division of the total number of participants by the number of Pods has a remainder greater than zero.
+* In competitive REL events, Byes should be awarded to lowest rated players in the case the division of the total number of participants by the number of Pods has a remainder greater than zero. 
+  - _Note: The reasoning behind this is to avoid tainting the competitive spirit of the event by presenting a random situation to the players where their deck, prepared to play in a pod of 4, all of a sudden is paired up to a pod of 3_ 
+* In regular REL events, instead of awarding Byes in case of an uneven distribution of players through the pods, players should be instead matched into one ore more pods of smaller size, always trying to minimize the difference in pod size towards the norm. Examples:
+  - _In an event with 23 players, pair players using 5 pods with size 4 and 1 pod with size 3_
+  - _In an event with 22 players, pair players using 4 pods with size 4 and 2 pods with size 3_
+  - _In an event with 21 players, pair players using 3 pods with size 4 and 3 pods with size 3_
 
 In Multiplayer tournaments, the single-elimination playoffs are paired according to the following pattern:
 
 ![Screenshot 2022-05-30 124751](https://user-images.githubusercontent.com/5087/170986132-35236b8f-97bb-4240-97b0-a5ef77a79a4e.png)
 
-In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, with the remaining 32 players being paired in 8 Pods for the quarterfinals, according to the pattern above. In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
+Uneven cuts:
+
+- In the case of a top 40 cut, the top 8 seeded players skip the quarterfinals, with the remaining 32 players being paired in 8 Pods for the quarterfinals, according to the pattern above. 
+- In the case of a top 10 cut, the top 2 seeded players skip the semifinals, with the remaining 8 players being paired in 2 pods for the semifinals, according to the pattern above.
+
+In the semi finals, the seeds of the winners from the quarterfinals are taken into account and the same pattern as above is applied for the semi final pairings.
 
 # Appendix B – Time Limits
 
@@ -405,82 +415,28 @@ $$ {1 \over \text{Points per win}} $$
 
 **Policy Additions**
 
-For tournaments using Multiplayer tournaments, in a configuration of four (4) players per Pod, use the following number of rounds:
+For Multiplayer tournaments, in a configuration of four (4) players per Pod, it is recommended to use the following number of rounds:
 
-<table>
-  <tr>
-   <td>Players
-   </td>
-   <td>Swiss Rounds
-   </td>
-   <td>Playoff
-   </td>
-  </tr>
-  <tr>
-   <td>4-8
-   </td>
-   <td>None (Run 1 Single Elimination round)
-   </td>
-   <td>None
-   </td>
-  </tr>
-  <tr>
-   <td>9-16
-   </td>
-   <td>2
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>17-32
-   </td>
-   <td>3
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>33-64
-   </td>
-   <td>4
-   </td>
-   <td>Top 4
-   </td>
-  </tr>
-  <tr>
-   <td>65-128
-   </td>
-   <td>5
-   </td>
-   <td>Top 16
-   </td>
-  </tr>
-  <tr>
-   <td>129-226 
-   </td>
-   <td>6
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-  <tr>
-   <td>227-409 
-   </td>
-   <td>7
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-  <tr>
-   <td>410+ 
-   </td>
-   <td>8
-   </td>
-   <td>Top 40
-   </td>
-  </tr>
-</table>
+| Players | Swiss Rounds                                                     | Playoff |
+| ------- | ---------------------------------------------------------------- | ------- |
+| 4       | None (Run 1 Single elimination round)                            | None    |
+| 5-15    | 2                                                                | Top 4   |
+| 16-32   | 3                                                                | Top 10  |
+| 33-64   | 4                                                                | Top 16  |
+| 65-128  | 5                                                                | Top 16  |
+| 129-256 | 5                                                                | Top 40  |
+
+For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff an apply the following mathematical formula to figure out the number of rounds to play:
+
+$$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$
+
+![image](https://user-images.githubusercontent.com/5087/215114736-5f1488d8-2927-4845-a9dc-20201aaa1250.png)
+
+_Between 257 and 1024 players, the recommended number of rounds is 6._
+
+_With 1024+ players the recommended number of rounds becomes 7._
+
+_In any case, you may want to consider splitting very large events into smaller ones that get merged afterwards_ 
 
 When the number of players is uneven with the desired Pod size, and byes are being awarded, consider that for each player being awarded a Bye, it's as if 3 invisible players would also exist. Think of these invisible players as dummies that the player awarded the Bye got to play against and win. So, in a scenario where you have 30 players enrolled in the event, because you will have to award 2 Byes, you should actually consider using a number of rounds as if you had 36 players, to mitigate the power imbalance of the multiple Byes.
 
