@@ -134,6 +134,7 @@ _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Al
 1. Match points
 2. Match Win percentage
 3. Opponents’ Average Match points
+4. Opponents’ Match Win percentage
 
 ## 3.13. Hidden Information
 
@@ -374,15 +375,31 @@ Each player who began a game that does not end with a winner being declared will
 
 In Multiplayer tournaments, the Match Win Percentage is defined as follows:
 
-$$ {\text{Number of Match wins} - \text{Number of byes} \over \text{Number of matches played}} $$
+$$ {\text{Match points} - (\text{Number of byes} \times \text{Points per win}) \over \text{Number of matches played} \times \text{Points per win}} $$
+
+## Opponents’ Average Match Points
+
+**Policy Additions**
+
+In Multiplayer tournaments, Opponents’ Average Match Points is defined as follows:
+
+$$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{(MP of opponent n)} \over n} $$
+
+Note that Byes do not count towards n.
 
 ## Opponents’ Match-Win Percentage
 
 **Policy Additions**
 
-In Multiplayer tournaments, Opponent Match Win % is not used. Instead Opponent’s Average Match Points (MP) are used and defined as follows: 
+In Multiplayer tournaments, Opponent Match Win % is defined as follows: 
 
-$$ {\text{(MP  of opponent 1)} + \text{(MP of opponent 2)} + \text{...} + \text{(MP of opponent n)} \over n} $$
+$$ {\text{(MW Percent of opponent 1)} + \text{(MW Percent of opponent 2)} + \text{...} + \text{(MW Percent of opponent n)} \over n} $$
+
+When using the MW% of an opponent in the formula above, we don't minimum-cap it to 0.33 when compared to Head-to-head tournaments.
+
+Instead, the minimum-cap is defined by:
+
+$$ {1 \over \text{Points per win}} $$
 
 # Appendix E – Recommended Number of Rounds in Swiss Tournaments
 
@@ -464,6 +481,8 @@ For tournaments using Multiplayer tournaments, in a configuration of four (4) pl
    </td>
   </tr>
 </table>
+
+When the number of players is uneven with the desired Pod size, and byes are being awarded, consider that for each player being awarded a Bye, it's as if 3 invisible players would also exist. Think of these invisible players as dummies that the player awarded the Bye got to play against and win. So, in a scenario where you have 30 players enrolled in the event, because you will have to award 2 Byes, you should actually consider using a number of rounds as if you had 36 players, to mitigate the power imbalance of the multiple Byes.
 
 # Credit
 
