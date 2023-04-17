@@ -426,7 +426,7 @@ For Multiplayer tournaments, in a configuration of four (4) players per Pod, it 
 | 65-128  | 5                                                                | Top 16  |
 | 129-256 | 5                                                                | Top 40  |
 
-For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff an apply the following mathematical formula to figure out the number of rounds to play:
+For Multiplayer tournaments with more than 257 participants, perform a Top 40 Playoff and apply the following mathematical formula to figure out the number of rounds to play:
 
 $$ {\text{Rounded up }(\log_4(\text{number of players})) + 1} $$
 
