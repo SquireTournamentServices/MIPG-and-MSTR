@@ -244,6 +244,20 @@ Unsporting conduct will not be tolerated at any time. Tournament participants mu
 * _Failing to follow the instructions of a tournament official._
 * **Violating the Tournament Organizer’s Code of Conduct (if applicable).**
 
+## 5.x. Collusion
+
+**This section as whole is an addition from this supplement and should be interpreted as being a sub-section of the Magic Tournament Rules: "5. Tournament Violations".**
+
+In Multiplayer tournaments, collusion between opponents, such as "Player A" voluntarily and intentionally performs an action that is detrimental to themselves game-wise, in order to benefit "Player B", is not allowed.
+
+All players colluding are in violation of this rule: Both the party receiving the benefit and the party providing.
+
+Shared efforts between opponents to against a another player are not colluding as long as the parties involved are all aiming to gain a benefit from it.
+
+Unintentionally providing a benefit to an opponent while performing a detrimental action is not collusion.
+
+_This can be seen as Bribery, but instead of goods, you receive friendship in return for providing a benefit to the counterpart. _
+
 # 6. Constructed Tournament Rules
 
 ## 6.1. Deck Construction Restrictions 
