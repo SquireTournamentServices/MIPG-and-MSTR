@@ -250,13 +250,11 @@ Unsporting conduct will not be tolerated at any time. Tournament participants mu
 
 In Multiplayer tournaments, collusion between opponents, such as "Player A" voluntarily and intentionally performs an action that is detrimental to themselves game-wise, in order to benefit "Player B", is not allowed.
 
-All players colluding are in violation of this rule: Both the party receiving the benefit and the party providing.
+- All players colluding are in violation of this rule: Both the party receiving the benefit and the party providing.
+- Shared efforts between opponents to against a another player are not colluding as long as the parties involved are all aiming to gain a benefit from it.
+- Unintentionally providing a benefit to an opponent while performing a detrimental action is not collusion.
 
-Shared efforts between opponents to against a another player are not colluding as long as the parties involved are all aiming to gain a benefit from it.
-
-Unintentionally providing a benefit to an opponent while performing a detrimental action is not collusion.
-
-_This can be seen as Bribery, but instead of goods, you receive friendship in return for providing a benefit to the counterpart. _
+_This can be seen as Bribery, but instead of goods, you receive friendship in return for providing a benefit to the counterpart._
 
 # 6. Constructed Tournament Rules
 
