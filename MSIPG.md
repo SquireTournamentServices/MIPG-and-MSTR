@@ -134,7 +134,7 @@ _No additional turns are awarded if the match is already in additional turns, th
 
 _Locate any cards missing from the deck and any incorrect cards in any game zone. Reveal those cards to the opponent<sup><strong>3.5A</strong></sup>. The opponent<sup><strong>3.5A</strong></sup> chooses which of the missing cards replaces each incorrect card; any extras are shuffled into the random portion of the library. If more cards are being removed than added, prioritize ones not in the library first. If there are still additional cards not in the library that need replacing, they are replaced by cards from the random portion of the library. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be returned to the deck at random from main deck cards in the sideboard._
 
-**3.5A.** In Multiplayer game modes, the card or cards are revealed to all opponents. The majority of opponents must come to a decision on which missing card replaces each incorrect card. 
+**3.5A.** In Multiplayer game modes, the card or cards are revealed to all opponents. The majority of opponents must come to a decision on which missing card replaces each incorrect card. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.  
 
 **3.5B.** Though some of the Upgrades listed in the Infraction Procedure Guide for Deck Problem may be uncommon in Multiplayer game modes, all upgrades listed in the Infraction Procedure Guide still carry the penalty of a Game Loss. This means a player receiving this upgraded penalty effectively receives a Match Loss.
 
