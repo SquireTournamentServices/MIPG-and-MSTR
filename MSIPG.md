@@ -74,13 +74,13 @@ _If a set affected by the error contains more cards than it is supposed to conta
 
 _While Game Rule Violations can be attributed to one player, they usually occur publicly and **all** players are expected to be mindful of what is happening in the game. It is tempting to try  and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game._
 
-_If the game has proceeded past a point where an opponent could reasonably be expected to notice the error, the opponent has also committed an infraction. In most cases, the infraction is Game Play Error — Failure to Maintain Game State. However, if the judge believes that **all** players were responsible for the Game Rule Violation, such as due to the opponent **(s)** controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, they have instead committed a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, once the game has continued **all** players will have committed a Game Rule Violation._
+_If the game has proceeded past a point where an opponent could reasonably be expected to notice the error, the opponent has also committed an infraction. In most cases, the infraction is Game Play Error — Failure to Maintain Game State. However, if the judge believes that **multiple** players were responsible for the Game Rule Violation, such as due to the opponent **(s)** controlling the continuous effect modifying the rules of the game that led to the Game Rule Violation or a player taking action based on another player’s instruction, they have instead committed a Game Play Error — Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, once the game has continued **all players involved (the controller and/or owner of the objects and/or effects involved)** will have committed a Game Rule Violation._
 
 ## 2.6. Game Play Error — Failure to Maintain Game State
 
 **Policy Additions**
 
-**2.6A.** In Multiplayer game modes, it is recommended to not apply this infraction.
+**2.6A.** In Multiplayer game modes, although a warning in this category never upgrades, this infraction should be tracked so it can be referenced in investigations. A Failure to Maintain Game State can still mask cheating.
 
 # 3. Tournament Errors
 
