@@ -117,11 +117,17 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.5A.** In Multiplayer tournaments where 75 minutes are used as the round time limit, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
 
-_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time for the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
+_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match where 75 minutes are being used as the round time limit. Alice is the active player when time for the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
 
-**2.5B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
+**2.5B.** In Multiplayer tournaments where 90 minutes are used as the round time limit, when time in the round is reached the match ends immediately. If a spell or ability is in the process of resolving, it will finish doing so completely. State-based actions are then checked. If no winner has been determined at that time, the match is considered a draw. 
+
+_Example: Able, Brandon, Cameron, and Desmond are playing in a Multiplayer match where 90 minutes are being used as the round time limit. Time has just been called. Able is the active player and has just finished declaring their attacks at Brandon, which would reduce Brandon's life total to zero if they were unblocked. Brandon is tapped out and has no blockers. The result of this match should be reported as a draw._
+
+_Example: Ander, Brooklyn, Chaz, and Dom are playing in a Multiplayer match where 90 minutes are being used as the round time limit. Ander casts Ad Nauseam and has begun to resolve the spell just before time in the round has been called. Since they have begun to resolve the spell, they may finish resolving the spell entirely. Once the spell has finished resolving, state-based actions will be checked. If no winner has be declared at the time the state-based actions are finished being checked, the result of this match should be reported as a draw._
+
+**2.5C.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
 # 3. Tournament Rules
 
@@ -350,7 +356,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 **Policy Additions**
 
 * For Multiplayer tournaments at Regular REL—90 minutes
-* For Multiplayer tournaments at Competitive REL—75 minutes
+* For Multiplayer tournaments at Competitive REL—75 minutes OR 90 minutes. Please see Section 2.5 for further information on End-of-Round procedure.
 * For Multiplayer single elimination matches—no time limit
 
 # Appendix C – Tiebreaker Explanation
