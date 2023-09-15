@@ -156,6 +156,18 @@ _If the missing card(s) were in a previous or current opponent’s deck, issue p
 
 **4.1A.** In Multiplayer game modes, subsequent Unsporting Conduct - Minor infractions still carry the penalty of a Game Loss. This means the player effectively receives a Match Loss.
 
+**Edits**
+
+_Examples_
+
+1. _A player uses excessively vulgar and profane language._
+2. _A player inappropriately demands to a judge that their opponent receive a penalty._
+3. _A player appeals to the Head Judge before waiting for the floor judge to issue a ruling._
+4. _A player throws their deck on the ground after losing a game._
+5. _A player leaves excessive trash in the play area after leaving the table._
+6. _A player fails to follow the request of a tournament official to leave the play area._
+7. **A player fails to follow the tournament's organizer code of conduct.**
+
 ## 4.2. Unsporting Conduct — Major
 
 **Policy Additions**
