@@ -116,9 +116,11 @@ _In the event that the match exceeds the time limit, two additional turns are ad
 
 _No additional turns are awarded if the match is already in additional turns, though the Warning still applies._
 
-**3.3A.** In Multiplayer game modes, no additional extra turns are added as a remedy for slow play. Players who receive a Slow Play warning during the round will skip any extra turns after round time is called. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns as described in the [Multiplayer Supplemental Tournament Rules (MSTR), 2.5A](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md#25-end-of-match-procedure).
+**3.3A.** In Multiplayer game modes while using end-of-round method 2.5AA as described in the [Multiplayer Supplemental Tournament Rules (MSTR), 2.5A](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md#25-end-of-match-procedure), no additional extra turns are added as a remedy for slow play. Players who receive a Slow Play warning during the round will skip any extra turns after round time is called. Their turn is not considered when determining extra turns for end of round procedure. The remaining players take their extra turns. 
 
-**3.3B.** If a player is issued a Warning for Slow Play after time in the round has been called, that player's turn(s) are not skipped, though the Warning still applies.
+**3.3B.** If a player is issued a Warning for Slow Play after time in the round has been called in Multiplayer tournaments where end-of-round method 2.5AA is being utilized, that player's turn(s) are not skipped, though the Warning still applies. 
+
+**3.3C.** If the match was interrupted to issue a penalty for Slow Play in a Multiplayer tournament where end-of-round method 2.5AB as described in the [Multiplayer Supplemental Tournament Rules (MSTR), 2.5A](https://github.com/MonarchDevelopment/MIPG-and-MSTR/blob/main/MSTR.md#25-end-of-match-procedure) is being utilized, players are awarded a time equal to the judge call plus six minutes.
 
 ## 3.4 Tournament Error — Decklist Problem
 
