@@ -117,9 +117,15 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **Policy Additions**
 
-**2.5A.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+**2.5A.** In Multiplayer tournaments, organizers have two methods to consider when deciding how to handle end-of-round procedure: 2.5AA and 2.5AB. It is recommended that 2.5AA be utilized when round times are 75 minutes or less, and 2.5AB be utilized when rounds times are between 75 and 90 minutes.
 
-_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time for the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
+**2.5AA.** In Multiplayer tournaments, use N turns instead of five, where N equals the number of remaining players. The number of extra turns is determined as time in the round is called. Once this number is determined, players leaving the game have no impact. 
+
+_Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer match. Alice is the active player when time in the round was called. Alice finishes playing turn 0, and since there are 4 remaining players in the Pod, 4 extra turns will be played. Bob takes his turn, then Charlie takes his. However, during Charlie’s turn, Alice and Daniel both lose the game. Bob and Charlie will take the remaining turns, since the number of extra turns was determined as time in the round was called and is not impacted by players leaving the game during extra turns._
+
+**2.5AB.** In Multiplayer tournaments, if the time limit is reached before a winner is determined, the player whose turn it is finishes their turn. If the active player has already indicated that they’d like to pass the turn when the time limit is reached, that is considered to be in the next turn. If the game is incomplete at the end of additional turns, the game is considered a draw. If a judge assigned a time extension (because of a long ruling, deck check, or other reason) the end-of-match procedure does not begin until the end of the time extension. 
+
+_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Arnold is the active player when time in the round is called. Arnold finishes their turn and passes. Since no winner has been declared, the match must be reported as a draw._
 
 **2.5B.** In Multiplayer tournaments, it is strongly recommended that single elimination matches be untimed. Any deviation must be communicated to the players before tournament begins and any tiebreaker method should be based solely on information pertaining to the current match.
 
