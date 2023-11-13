@@ -111,7 +111,14 @@ _Example: Alice is ranked first in the last round of swiss. This rule prevents h
 
 **2.4A.** In Multiplayer tournaments, players may leave the table after losing a match as remaining players continue playing (see rule 800.4 in the Comprehensive Rules). 
 
-**2.4B.** If a player leaving the game would affect current or imminent game actions, those actions occur as though that player was still in the game until the end of the current phase.
+**2.4B.** In Multiplayer tournaments, players are encouraged to concede while they have priority, and the stack is empty on one of their main phases.
+
+If a player concedes when it is not one of their main phases or the stack is not empty, that player loses the game but the game continues with a "ghost" representation of the player and their cards as if they were still in the game. 
+This lasts until they would gain priority on their next turn with an empty stack in their main phase. At this point, the standard state-based actions resulting from the player conceding and leaving the game occur. 
+
+During this period, permanents owned by the "ghost" player, but controlled by other players are replaced by token representations. The same is true for cards in all other zones. This "ghost" player will decline all optional actions and if there is a mandatory action requiring a choice, that choice is made by a majority vote from the remaining players. This "ghost" player can still be eliminated during this period, applying the standard state-based actions from the player losing the game.
+
+It is advisable to call a Judge to assist in this process.
 
 ## 2.5. End of Match Procedure
 
